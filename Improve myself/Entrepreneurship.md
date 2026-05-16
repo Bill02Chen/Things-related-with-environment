@@ -17,3 +17,5 @@ what is your interest? what are your objectives? how much resources and socail c
 Your idea.
 
 is feasible? is innovative & disruptive? any change in **infrastructure**? come up a prototype? easily copied? (copy does not need to be 100% copy, sometimes maybe 60% is enough)
+
+when come up idea, think about a space out idea (maybe unrealistic), pull it down.
