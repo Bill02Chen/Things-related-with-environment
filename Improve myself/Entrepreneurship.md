@@ -16,4 +16,4 @@ what is your interest? what are your objectives? how much resources and socail c
 
 Your idea.
 
-is feasible? is innovative & disruptive?
+is feasible? is innovative & disruptive? any change in **infrastructure**? come up a prototype? easily copied?
