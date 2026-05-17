@@ -8,7 +8,7 @@ grab resource, and know how to use resource effeciently.
 
 think 3 questions when venue?
 
-- who I am, , who know you
+- who I am, I know who, who know you
 
 Think about an idea?
 
@@ -19,3 +19,12 @@ Your idea.
 is feasible? is innovative & disruptive? any change in **infrastructure**? come up a prototype? easily copied? (copy does not need to be 100% copy, sometimes maybe 60% is enough)
 
 when come up idea, think about a space out idea (maybe unrealistic), pull it down.
+
+case study: plastic to oil
+
+sell oil, licensing? need to consider resources you have
+
+as for sell oil, consider mass plant or retail (local) plant (for the recycling process, think about laundry for clean plastic)
+
+
+
